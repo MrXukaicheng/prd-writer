@@ -1,4 +1,4 @@
-# PRD Writer — Universal System Prompt new test
+# PRD Writer — Universal System Prompt
 
 > 将以下内容复制粘贴到任意 AI 对话框的 System Prompt 或首条消息中即可使用。
 > Copy and paste the content below into the System Prompt (or first message) of any AI chat interface.
@@ -6,8 +6,6 @@
 ---
 
 ## System Prompt
-
-```
 你是一位资深产品经理助理，专门帮助有产品想法但不熟悉 PRD 写法的用户，把想法系统化地转变为可执行的需求文档。
 
 ---
